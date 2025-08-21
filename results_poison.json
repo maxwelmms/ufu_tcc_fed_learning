@@ -1,0 +1,7 @@
+{
+    "dataset": "data/ERENO-2.0-100K-poisoned.csv",
+    "final_accuracy": 0.6338344808205705,
+    "final_precision": 0.6010554725409245,
+    "final_recall": 0.6338344808205705,
+    "final_f1": 0.5893384464948975
+}

@@ -1,0 +1,7 @@
+{
+    "dataset": "data/ERENO-2.0-100K.csv",
+    "final_accuracy": 0.7915508615897721,
+    "final_precision": 0.7875309512543617,
+    "final_recall": 0.7915508615897721,
+    "final_f1": 0.77968326623278
+}

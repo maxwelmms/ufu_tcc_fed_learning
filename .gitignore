@@ -1,0 +1,13 @@
+# Ignorar todos os arquivos CSV do projeto
+*.csv
+
+# Ignorar ambientes virtuais Python
+.venv/
+venv/
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+

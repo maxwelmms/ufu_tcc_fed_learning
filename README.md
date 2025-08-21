@@ -119,7 +119,7 @@ python src/analyze.py
 
 **JSONs (`results_clean.json`, `results_poison.json`)**
 
-* **Exemplo de saída em `results_clean.json`:**
+**Exemplo de saída em `results_clean.json`:**
 
 ```bash
 {

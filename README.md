@@ -58,7 +58,7 @@ matplotlib
 2. Instale as dependências:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## 🚀 Como Rodar
 1. Rodar servidor e clientes manualmente (modo federado tradicional)
@@ -89,29 +89,29 @@ Execute:
 python src/analyze.py
 ```
 
-* **Isso roda o aprendizado federado duas vezes:**
+**Isso roda o aprendizado federado duas vezes:**
 
-* * 1x com dataset limpo
+* 1x com dataset limpo
 
-* * 1x com dataset envenenado
+* 1x com dataset envenenado
 
-* **E gera:**
+**E gera:**
 
-* * **Arquivos JSON**
+* **Arquivos JSON**
 
-* * * results_clean.json → métricas finais do dataset limpo
+* * results_clean.json → métricas finais do dataset limpo
 
-* * * results_poison.json → métricas finais do dataset envenenado
+* * results_poison.json → métricas finais do dataset envenenado
 
-* * **Gráficos comparativos**
+* **Gráficos comparativos**
 
-* * * comparison_accuracy.png
+* * comparison_accuracy.png
 
-* * * comparison_precision.png
+* * comparison_precision.png
 
-* * * comparison_recall.png
+* * comparison_recall.png
 
-* * * comparison_f1.png
+* * comparison_f1.png
 
 
 ## 📊 Interpretação dos Resultados

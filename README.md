@@ -4,6 +4,7 @@ Este é um projeto simples de **Aprendizado Federado (FL)** usando o framework *
 O objetivo é treinar um modelo de classificação a partir do dataset `ERENO-2.0-100K.csv` e medir o **impacto da técnica de envenenamento de rótulos (Label Poisoning)** na degradação do desempenho do modelo.
 
 Download do dataset [Aqui](https://drive.google.com/file/d/1Il9YL3cOv8ret1NPoDVITSEbwRyaNoRV/view?usp=drivesdk).
+
 ---
 
 ## 📂 Estrutura

@@ -139,7 +139,7 @@ python src/analyze.py
 
 * **final_f1** → equilíbrio entre precisão e recall.
 
-## 📌 Compare com o `results_poison.json`.
+## 📌 Compare com o `results_poison.json`
 A diferença entre os dois mostra a degradação causada pelo poisoning.
 
 ## Gráficos (comparison_*.png)
